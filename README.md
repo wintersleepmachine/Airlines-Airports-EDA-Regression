@@ -1,6 +1,6 @@
 # Airlines-Airports-EDA-Regression
 
-Full Anaylsis of all domestic US flights, incl Airlines and Airports for 2018/2019. Presentation slides found here: https://tinyurl.com/y5y6xcpn
+Full Anaylsis of all domestic US flights, incl Airlines and Airports for 2018/2019. Summary/conclusions found here: https://tinyurl.com/y5y6xcpn
 
 #### Questions I seek to answer:
   1. Busiest days of the week? Busiest months of the year?
